@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     s.screenshots   = [ "http://cyberagent.github.io/NBULog/images/xcodecolors.png",
                         "http://ptez.github.io/LumberjackConsole/images/screenshot2.png",
                         "http://ptez.github.io/LumberjackConsole/images/screenshot3.png" ]
-    s.source        = { :git => "https://github.com/CyberAgent/NBULog.git", :tag => "#{s.version}" }
+    s.source        = { :git => "https://github.com/johndpope/NBULog.git", :tag => "#{s.version}" }
     
     s.ios.deployment_target = '8.1'
     s.osx.deployment_target = '10.7'
